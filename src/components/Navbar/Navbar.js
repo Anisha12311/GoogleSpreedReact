@@ -5,6 +5,7 @@ import Tablecontain from '../Table/Tablecontain'
  function Navbar() {
     const history = useHistory()
     return (
+       
        <>
         <div className="header">
         <div className="logo-nav">

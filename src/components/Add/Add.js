@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useHistory } from "react-router-dom";
 import './Add.css'
 
+
 const Add = () =>{
   const history = useHistory()
     const [data, setData] = useState({
